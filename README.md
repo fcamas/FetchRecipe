@@ -9,7 +9,10 @@
 6. [Weakest Part of the Project](#weakest-part-of-the-project)
 7. [Additional Information](#additional-information)
 
-## Overview
+
+![recipeApp](https://github.com/user-attachments/assets/416501ed-b8b0-416b-aacd-d5341c23a2b9)
+
+---
 
 ### Description
 
